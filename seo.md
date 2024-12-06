@@ -14,6 +14,14 @@ Otimização On-Page refere-se às práticas que podem ser implementadas diretam
 - **Meta Tags:** Inclua palavras-chave em meta títulos (title tags), descrições (meta descriptions) e cabeçalhos (H1, H2, H3).
 - **Conteúdo de Qualidade:** Crie conteúdo relevante, original e de alta qualidade que responda às perguntas dos usuários e utilize palavras-chave naturalmente.
 - **URLs Amigáveis:** Use URLs curtas, descritivas e que contenham palavras-chave. Evite URLs complexas com muitos parâmetros.
+Uma URL amigável é uma URL que é fácil de ler e entender tanto para humanos quanto para motores de busca. Ela geralmente é curta, descritiva e inclui palavras-chave relevantes que indicam o conteúdo da página. URLs amigáveis melhoram a experiência do usuário e podem contribuir positivamente para o SEO, pois são mais propensas a serem clicadas e compartilhadas.
+
+**Exemplos de URL amigável:**
+- **Não amigável:** `www.exemplo.com/produto?id=12345`
+- **Amigável:** `www.exemplo.com/camisetas/algodao-organico`
+
+No primeiro exemplo, a URL não amigável não fornece informações claras sobre o conteúdo da página, enquanto a URL amigável é descritiva e permite ao usuário e aos motores de busca entenderem que a página trata de camisetas feitas de algodão orgânico.
+
 - **Imagens e Multimídia:** Otimize imagens com textos alternativos (alt text) e descrições, e utilize formatos de imagem apropriados para velocidade de carregamento rápida.
 
 ### 3. **Otimização Off-Page**
